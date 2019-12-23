@@ -4,4 +4,7 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.atyzu.gmall.user.mapper.UserMapper">
 
+    <select id="getAll" resultType="com.atyzu.gmall.user.bean.UmsMember">
+        select * from ums_member
+    </select>
 </mapper>
