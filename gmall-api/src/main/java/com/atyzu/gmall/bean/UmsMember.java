@@ -1,4 +1,4 @@
-package com.atyzu.gmall.user.bean;
+package com.atyzu.gmall.bean;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

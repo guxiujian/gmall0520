@@ -1,7 +1,8 @@
-package com.atyzu.gmall.user.service;
+package com.atyzu.gmall.service;
 
-import com.atyzu.gmall.user.bean.UmsMember;
-import com.atyzu.gmall.user.bean.UmsMemberReceiveAddress;
+import com.atyzu.gmall.bean.UmsMember;
+import com.atyzu.gmall.bean.UmsMemberReceiveAddress;
+
 
 import java.util.List;
 
